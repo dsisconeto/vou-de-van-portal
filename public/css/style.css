@@ -182,9 +182,10 @@ body {
     padding-bottom: 60px;
 }
 
+
 .wide-50 {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 150px;
+    padding-bottom: 150px;
 }
 
 .wide-40 {
@@ -1406,7 +1407,7 @@ a.store:last-child {
 
 /*------------------------------------------*/
 
-/*    Quote Avatar 
+/*    Quote Avatar
 /*------------------------------------------*/
 
 .quote-avatar {
@@ -1433,7 +1434,7 @@ a.store:last-child {
 
 /*------------------------------------------*/
 
-/*    Quote Avatar 
+/*    Quote Avatar
 /*------------------------------------------*/
 
 .quote-author h5 {
@@ -1864,7 +1865,7 @@ a.store:last-child {
 
 /*------------------------------------------*/
 
-/*   LOGO IMAGE    
+/*   LOGO IMAGE
 /*------------------------------------------*/
 
 .navbar-brand {
@@ -1893,7 +1894,7 @@ a.store:last-child {
 
 /*------------------------------------------*/
 
-/*   NAVIGATION BAR    
+/*   NAVIGATION BAR
 /*------------------------------------------*/
 
 .navbar {
@@ -1912,7 +1913,7 @@ a.store:last-child {
 
 /*------------------------------------------*/
 
-/*   NAVIGATION MENU    
+/*   NAVIGATION MENU
 /*------------------------------------------*/
 
 .navbar-expand-lg .navbar-nav .nav-link {
@@ -1953,7 +1954,7 @@ a.store:last-child {
 
 /*------------------------------------------*/
 
-/*   Navbar Social Icons  
+/*   Navbar Social Icons
 /*------------------------------------------*/
 
 .header-socials {
@@ -2006,7 +2007,7 @@ a.store:last-child {
 
 /*------------------------------------------*/
 
-/*   Navbar Store Badge  
+/*   Navbar Store Badge
 /*------------------------------------------*/
 
 .header-store {
@@ -2039,7 +2040,7 @@ a.store:last-child {
 
 /*------------------------------------------*/
 
-/*   Navbar Scroll   
+/*   Navbar Scroll
 /*------------------------------------------*/
 
 .navbar.scroll.bg-tra {
@@ -2122,7 +2123,7 @@ a.store:last-child {
 
 /*------------------------------------------*/
 
-/*   Responsive Burger Menu   
+/*   Responsive Burger Menu
 /*------------------------------------------*/
 
 .navbar-light .navbar-toggler,
@@ -2168,7 +2169,7 @@ a.store:last-child {
 }
 
 /* ==========================================================================
-   04.  HERO 
+   04.  HERO
    =========================================================================== */
 
 .hero-section .container {
@@ -2333,6 +2334,7 @@ a.store:last-child {
 .hero-section h2 {
     margin-bottom: 20px;
 }
+
 .hero-section h2 {
     margin-top: -5rem;
 }
@@ -2380,7 +2382,7 @@ a.store:last-child {
 
 /*------------------------------------------*/
 
-/*    HERO LINKS 
+/*    HERO LINKS
 /*------------------------------------------*/
 
 .hero-links {
@@ -2430,7 +2432,7 @@ a.store:last-child {
 
 .hero-stores-badge p {
     font-weight: 500;
-    margin-bottom: : 10px;
+    margin-bottom:: 10px;
 }
 
 .hero-stores-badge span {
@@ -2696,7 +2698,7 @@ a.store:last-child {
     opacity: 1;
 }
 
-.fbox-3.rose-hover:hover>span {
+.fbox-3.rose-hover:hover > span {
     color: #f402b8;
 }
 
@@ -2709,7 +2711,7 @@ a.store:last-child {
     opacity: 1;
 }
 
-.fbox-3.red-hover:hover>span {
+.fbox-3.red-hover:hover > span {
     color: #ee041a;
 }
 
@@ -2722,7 +2724,7 @@ a.store:last-child {
     opacity: 1;
 }
 
-.fbox-3.orange-hover:hover>span {
+.fbox-3.orange-hover:hover > span {
     color: #ff8212;
 }
 
@@ -2735,7 +2737,7 @@ a.store:last-child {
     opacity: 1;
 }
 
-.fbox-3.green-hover:hover>span {
+.fbox-3.green-hover:hover > span {
     color: #4fcb36;
 }
 
@@ -2748,7 +2750,7 @@ a.store:last-child {
     opacity: 1;
 }
 
-.fbox-3.blue-hover:hover>span {
+.fbox-3.blue-hover:hover > span {
     color: #1d07f4;
 }
 
@@ -2761,7 +2763,7 @@ a.store:last-child {
     opacity: 1;
 }
 
-.fbox-3.skyblue-hover:hover>span {
+.fbox-3.skyblue-hover:hover > span {
     color: #01b7de;
 }
 
@@ -2774,7 +2776,7 @@ a.store:last-child {
     opacity: 1;
 }
 
-.fbox-3.purple-hover:hover>span {
+.fbox-3.purple-hover:hover > span {
     color: #783bb1;
 }
 
@@ -2897,7 +2899,7 @@ a.store:last-child {
 
 /*------------------------------------------*/
 
-/*   CONTENT SECTION TITLE 
+/*   CONTENT SECTION TITLE
 /*------------------------------------------*/
 
 #content-7 .section-title {
@@ -2986,7 +2988,7 @@ a.store:last-child {
 }
 
 .nav-pills .nav-link.active,
-.nav-pills .show>.nav-link {
+.nav-pills .show > .nav-link {
     background-color: #e35029;
     border-color: #e35029;
     color: #fff;
@@ -3769,7 +3771,7 @@ ul.features li.disabled-option {
 
 /*------------------------------------------*/
 
-/*    Testimonial Message Avatar 
+/*    Testimonial Message Avatar
 /*------------------------------------------*/
 
 .review-1 .testimonial-avatar img,
@@ -4294,7 +4296,7 @@ p.testimonial-autor {
 
 /*------------------------------------------*/
 
-/*    BLOG PAGE RIGHT SIDEBAR 
+/*    BLOG PAGE RIGHT SIDEBAR
 /*------------------------------------------*/
 
 #sidebar-right h5.h5-md {
@@ -4325,7 +4327,7 @@ p.testimonial-autor {
 /*   Blog Categories
 /*------------------------------------------*/
 
-ul.blog-category-list>li {
+ul.blog-category-list > li {
     padding: 10px 0;
     border-bottom: 1px dashed #c0c0c0;
     -webkit-transition: all 300ms ease-in-out;
@@ -4335,17 +4337,17 @@ ul.blog-category-list>li {
     transition: all 300ms ease-in-out;
 }
 
-ul.blog-category-list>li:first-child {
+ul.blog-category-list > li:first-child {
     padding: 0 0 10px;
 }
 
-ul.blog-category-list>li:last-child {
+ul.blog-category-list > li:last-child {
     padding: 10px 0 0;
     border-bottom: none;
 }
 
-ul.blog-category-list>li a,
-ul.blog-category-list>li span {
+ul.blog-category-list > li a,
+ul.blog-category-list > li span {
     color: #555;
 }
 
@@ -4448,7 +4450,7 @@ ul.blog-category-list li a:hover {
 
 /*------------------------------------------*/
 
-/*    BLOG PAGE PAGINATION 
+/*    BLOG PAGE PAGINATION
 /*------------------------------------------*/
 
 .page-link {

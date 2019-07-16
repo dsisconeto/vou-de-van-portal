@@ -250,7 +250,7 @@
                 problemas ao encontrar Vans e Companhias de transporte.
               </p>
               <p class="animated" data-animation="fadeInRight" data-animation-delay="300">
-                Tenha em mãos os horáios de saída/chegada, rotas, pontos de paradas e <strong>muito
+                Tenha em mãos os horários de saída/chegada, rotas, pontos de paradas e <strong>muito
                   mais</strong>!
               </p>
             </div>
